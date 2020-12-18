@@ -1,0 +1,60 @@
+
+header{
+    box-sizing: border-box;
+    text-align: center;
+    width: 100%;
+    padding: 25px 40px;
+    background-color: ;
+    overflow: hidden;
+}
+.sesion{
+    text-decoration:none;
+    font-weight: bold;
+    font-family:Arial;
+    color: #3498DB;
+    font-size:20px;
+
+}
+header .btna{
+   font-family: verdana, arial;
+   font-weight: bold;
+   padding: 4px;
+   background-color: #27ae60;
+   color: #fdfefe;
+   text-decoration: none;
+   border-radius: 200px;
+   width: 125px;
+   height: 30px;
+   float: right;
+
+}
+
+header .btna:link, header .btna:visited{
+    border-top: 1px solid #76d7c4;
+    border-bottom: 2px solid #0e6251;
+    border-left: 1px solid #76d7c4;
+    border-right: 2px solid #0e6251;     
+}
+
+header .btna:hover{
+    border-bottom: 1px solid #76d7c4;
+    border-top: 2px solid #0e6251;
+    border-right: 1px solid #76d7c4;
+    border-left: 2px solid #0e6251;
+}
+
+header p {
+    float: left;
+
+}
+
+header img{
+    margin-left: 1%;
+}
+.field{
+    background:#76d7c4; 
+    float: left;
+    height: 30px;
+    border-radius: 200px;
+}
+
